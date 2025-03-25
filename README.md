@@ -1,12 +1,32 @@
-# React + Vite
+# 🎯 Quotes Machines Challenge - FreeCodeCamp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This challenge consists of developing a web application that:  
 
-Currently, two official plugins are available:
+✅ **Generates random quotes**.  
+✅ **Changes the background color automatically** each time the refresh button is pressed.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The following technologies were used to build this project:  
 
-## Expanding the ESLint configuration
+| ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) |
+|---|---|---|
+| ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=CE6B9E) | ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD) | ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC) |
+| ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+---
+
+# 🎯 Quotes Machines Challenge - FreeCodeCamp
+
+Este reto consiste en desarrollar una aplicación web que:  
+
+✅ **Genere citas aleatorias**.  
+✅ **Cambie el color de fondo automáticamente** cada vez que se presione el botón de actualización.  
+
+Para lograrlo, se han utilizado las siguientes tecnologías:  
+
+| ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) |
+|---|---|---|
+| ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass&logoColor=CE6B9E) | ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=0769AD) | ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC) |
+| ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
+
